@@ -1,6 +1,6 @@
 ### Bonjour ! 👋
 
-## 🪄 Je m'appelle Arthur, j'ai 29 ans et je suis apprenti sorcier-développeur web !
+## 🪄 Je m'appelle Arthur, j'ai 29 ans et je suis développeur web junior !
 
 - 🌱 Je suis en formation à la Wild Code School à Lyon.
 - 🏗 J'apprends Javascript / ReactJS pour le frontend et NodeJS / ExpressJS pour le backend, sans oublier HTML et CSS.
