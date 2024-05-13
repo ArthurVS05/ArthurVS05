@@ -1,6 +1,6 @@
 ### Bonjour ! 👋
 
-## 🪄 Je m'appelle Arthur, j'ai 29 ans et je suis développeur web junior !
+## 🪄 Je m'appelle Arthur, j'ai 30 ans et je suis développeur web junior !
 
 - 🌱 Je suis en formation à la Wild Code School à Lyon.
 - 🏗 J'apprends Javascript / ReactJS pour le frontend et NodeJS / ExpressJS pour le backend, sans oublier HTML et CSS.
@@ -13,7 +13,19 @@
 
 ⚡ En projet parallèle, je fais de la photographie, vous pouvez retrouver mon travail sur mon site Internet https://arthursilvestrini.com/ et sur Instagram **https://www.instagram.com/arthursilvestrini/**
 
-### 🟢🟢🟢 Je recherche un stage de 4 mois à partir de fin mai à Lyon, idéalement avec du React / Node mais je suis ouvert à apprendre de nouvelles technos ! 🟢🟢🟢
+### 🟢🟢🟢 Je recherche une alternance à Lyon à partir de septembre 2024 ! 🟢🟢🟢
 
+Au programme de l'alternance à la Wild Code School :
+- TypeScript, React, NextJS
+- NodeJS / Express JS, TypeORM, SQLite
+- GraphQL, TypeGraphQL, Apollo Server
+- Docker
+- test unitaires avec Jest
+- tests de composants avec react testing library
+- tests end to end avec Playwright
+- démarche Devops, intégration continue, déploiement
+- projet de groupe répondant à un cahier des charges
+- etc.
+  
  📫 Vous pouvez me contacter sur LinkedIn : https://www.linkedin.com/in/arthur-vincent-silvestrini-290512115/
 
