@@ -8,8 +8,8 @@
 
 ## 💬 A propos de moi
  -  J'ai fait des études en géographie et en sciences politiques.
- -  J'ai ensuité travaillé comme assistant puis chargé de communication.
- -   J'ai donc de l'expérience en travail en équipe, gestion de projet, organisation en autonomie, gestion des priorités et de l'agenda, gestion site Internet côté backoffice (Wordpress puis Drupal).
+ -  J'ai ensuité travaillé comme assistant puis chargé de communication, avec une appétence pour le design.
+ -   J'ai donc de l'expérience en travail en équipe, gestion de projet, organisation en autonomie, gestion des priorités et de l'agenda, gestion site Internet côté backoffice (Wordpress puis Drupal), création de visuels et identités graphiques.
 
 ⚡ En projet parallèle, je fais de la photographie, vous pouvez retrouver mon travail sur mon site Internet https://arthursilvestrini.com/ et sur Instagram **https://www.instagram.com/arthursilvestrini/**
 
