@@ -1,8 +1,6 @@
 ### Bonjour ! 👋
 
-## 🪄 Je m'appelle Arthur, j'ai 30 ans et je suis développeur web junior !
-
-- 🌱 Je suis en alternance à la Wild Code School à Lyon.
+## 🪄 Je m'appelle Arthur, je suis développeur web en alternance à la Wild Code School à Lyon.
 
 Au programme :
 - TypeScript, React,
